@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="mrazall — делаю продукты и держу для них свой сервер">
+  <rect width="1200" height="300" rx="18" fill="#161512"/>
+  <g font-family="Onest, Inter, 'Segoe UI', system-ui, -apple-system, sans-serif">
+    <rect x="56" y="52" width="26" height="26" rx="7" fill="#f1eee7"/>
+    <circle cx="74" cy="60" r="4.5" fill="#3fbf7f"/>
+    <text x="96" y="72" font-size="22" font-weight="600" fill="#f1eee7">mrazall</text>
+    <text x="56" y="160" font-size="62" font-weight="800" letter-spacing="-2" fill="#f1eee7">Делаю продукты и держу</text>
+    <text x="56" y="228" font-size="62" font-weight="800" letter-spacing="-2" fill="#f1eee7">для них <tspan fill="#3fbf7f">свой</tspan> сервер.</text>
+    <line x1="56" y1="258" x2="1144" y2="258" stroke="#2e2c27"/>
+    <text x="1144" y="72" font-size="18" text-anchor="end" fill="#9c978d">mrazall-digital.com</text>
+  </g>
+  <g transform="translate(1000 170)" fill="none" stroke="#9c978d" stroke-opacity=".45" stroke-width="1.4">
+    <path d="M0 0 C -40 0 -50 -50 -90 -50"/><path d="M0 0 C 40 0 50 -50 90 -50"/><path d="M0 0 C 40 0 50 50 90 50"/><path d="M0 0 C -40 0 -50 50 -90 50"/>
+    <circle cx="-90" cy="-50" r="9"/><circle cx="90" cy="-50" r="9"/><circle cx="90" cy="50" r="9"/><circle cx="-90" cy="50" r="9"/>
+  </g>
+  <circle cx="1000" cy="170" r="20" fill="#3fbf7f"/>
+  <circle cx="1000" cy="170" r="20" fill="none" stroke="#3fbf7f" stroke-opacity=".5">
+    <animate attributeName="r" values="20;34" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values=".5;0" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
