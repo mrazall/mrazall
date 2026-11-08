@@ -11,11 +11,12 @@
 
 ### Запущено
 
-| | |
-|---|---|
-| **[Мой час](https://myhouronline.ru)** | Рабочее место частного репетитора: урок на общей доске со звонком, календарь, оплаты. Ученику нужна только ссылка, данные шифруются на устройстве. |
-| **[Кофе он мой](https://xn--i1afcdc.xn--p1ai)** | Цифровая карта лояльности московской кофейни, без регистрации и без сервера. [RuStore](https://www.rustore.ru/catalog/app/ru.kofeonmoy.loyalty) · [Google Play](https://play.google.com/store/apps/details?id=ru.kofeonmoy.loyalty) |
-| **[AI Development Hub](https://github.com/mrazall/ai-development-hub)** | Пульт для ИИ-агентов, которые пишут код: Claude Code и Codex на своих машинах, сессии вживую, задачи по веткам git, память в Obsidian. Открытый код, Apache-2.0. |
+**[Мой час](https://myhouronline.ru)** — рабочее место частного репетитора: урок на общей доске со звонком, календарь, оплаты. Ученику нужна только ссылка, данные шифруются на устройстве.
+
+**[Кофе он мой](https://xn--i1afcdc.xn--p1ai)** — цифровая карта лояльности московской кофейни, без регистрации и без сервера.
+[RuStore](https://www.rustore.ru/catalog/app/ru.kofeonmoy.loyalty) · [Google Play](https://play.google.com/store/apps/details?id=ru.kofeonmoy.loyalty)
+
+**[AI Development Hub](https://github.com/mrazall/ai-development-hub)** — пульт для ИИ-агентов, которые пишут код: Claude Code и Codex на своих машинах, сессии вживую, задачи по веткам git, память в Obsidian. Открытый код, Apache-2.0.
 
 ### Для себя
 
